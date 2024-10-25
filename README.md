@@ -1,4 +1,3 @@
-Projeto HTML e CSS - Origamid
 Este projeto foi desenvolvido como parte do curso de HTML e CSS da Origamid. O objetivo foi criar uma página web responsiva e visualmente atraente, utilizando as melhores práticas de semântica e acessibilidade.
 
 Tecnologias Utilizadas
